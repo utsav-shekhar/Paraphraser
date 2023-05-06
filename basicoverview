@@ -1,0 +1,5 @@
+The first paraphraser is a rule based basic version which takes a single liner as input and outputs a variety of single liner outputs which are the paraphrases of the input sentence.
+
+The second paraphraser is a high level paraphraser which also encorporates an input of multiliner text, and gives the output which is synonymous to the input.
+
+
